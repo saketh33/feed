@@ -1,5 +1,9 @@
+.color {
+  background: #3df7d8;
+}
+
 .project_card {
-  height: 495px;
+  height: 485px;
 }
 
 .author_tag {
